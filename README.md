@@ -1,4 +1,3 @@
-# Bank-Marketing-Campaign---Data-Cleaning-Pipeline
 # Bank Marketing Campaign - Data Cleaning Pipeline
 
 ## 📌 Project Overview
